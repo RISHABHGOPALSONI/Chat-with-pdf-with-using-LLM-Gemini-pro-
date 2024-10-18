@@ -1,4 +1,4 @@
-# chat-with-pdf-with-using-LLM-Gemini-pro-
+# Chat-with-pdf-with-using-LLM-Gemini-pro-
 Chat web Application Upload pdf and query the question.
 In this Web Application, we use LLM (Gemini Pro) using its API-KEY 
 we insert the pdf in the front end which is made of the StreamLit we insert the pdf and query the question 
